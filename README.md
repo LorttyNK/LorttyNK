@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width='100px'/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width='100px'/>
   <p align="center">
-    E caso você queira me acompanhar nessa jornada, você pode me seguir clicando nestes links abaixo, ou, pesquisando @LorttyNK em qualquer rede social possivel.
+    E caso você queira me acompanhar nessa jornada, você pode me seguir clicando nestes links abaixo, ou pesquisando @LorttyNK em qualquer rede social possivel.
   </p>
     <p align="center">
 <a href="https://www.youtube.com/lorttynk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
