@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 😶‍🌫️
 
-<p align="center"> Olá eu me chamo Lucas Chaves, A.K.A. Lortty, LorttyNK e eu estou neste momento estudando programação, e neste momento estou estudando lógica de programação utilizando</p>
+<p align="center"> Olá eu me chamo Lucas (Lortty) Chaves e eu estou neste momento estudando programação, e neste momento estou estudando lógica de programação utilizando</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='100px'/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width='100px'/> 
